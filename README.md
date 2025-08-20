@@ -23,5 +23,10 @@ const muhammadMaazAleem = {
     lookingToCollaborate: "AI/ML Projects, Open Source Contributions",
     funFact: "I believe AI will change the world, one algorithm at a time! 🤖",
     contact: "24276@students.au.edu.pk",
+<div align="center">
+📈 Contribution Graph
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMaazAleem&amp;bg_color=1a1b27&amp;color=38bdae&amp;line=70a5fd&amp;point=bf91f3&amp;area=true&amp;hide_border=true">
+</div>
+
     motto: "Code with passion, innovate with purpose! ✨"
 };
